@@ -1,4 +1,4 @@
-# Cities2
+# Cities2 using concurrency HAmeR framework( handler+Message+Runnable)
 cities 2
 
 androide
